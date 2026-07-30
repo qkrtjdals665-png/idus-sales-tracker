@@ -1,0 +1,151 @@
+:root {
+  color-scheme: light;
+  font-family: Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+body {
+  margin: 0;
+  width: 330px;
+  color: #242424;
+  background: #fff;
+}
+
+main {
+  padding: 22px;
+}
+
+.brand {
+  color: #ff5a36;
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: 1.7px;
+}
+
+h1 {
+  margin: 5px 0 7px;
+  font-size: 22px;
+}
+
+.description {
+  margin: 0;
+  color: #686868;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.status {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 18px;
+}
+
+.status div {
+  padding: 13px;
+  border-radius: 10px;
+  background: #f7f7f8;
+}
+
+.status span {
+  display: block;
+  color: #777;
+  font-size: 11px;
+}
+
+.status strong {
+  display: block;
+  margin-top: 4px;
+  font-size: 20px;
+}
+
+.last-checked {
+  margin: 11px 0;
+  color: #777;
+  font-size: 11px;
+}
+
+button {
+  width: 100%;
+  padding: 11px 12px;
+  border: 0;
+  border-radius: 9px;
+  color: #fff;
+  background: #ff5a36;
+  font-size: 13px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #eb4825;
+}
+
+button:disabled {
+  cursor: wait;
+  opacity: 0.65;
+}
+
+.cloud {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid #ececef;
+}
+
+.cloud label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.cloud input {
+  width: 100%;
+  padding: 9px;
+  border: 1px solid #dcdce1;
+  border-radius: 8px;
+  box-sizing: border-box;
+  font-size: 11px;
+}
+
+.cloud .secondary {
+  margin-top: 7px;
+  color: #333;
+  background: #eeeeF1;
+}
+
+.cloud .secondary:hover {
+  background: #dfdfe4;
+}
+
+.cloud p {
+  margin: 7px 0 0;
+  color: #777;
+  font-size: 11px;
+}
+
+.message {
+  min-height: 18px;
+  margin: 8px 0 0;
+  color: #16764c;
+  font-size: 11px;
+  text-align: center;
+}
+
+aside {
+  margin-top: 13px;
+  padding: 12px;
+  border: 1px solid #ececef;
+  border-radius: 10px;
+  color: #666;
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+aside strong {
+  color: #333;
+}
+
+aside p {
+  margin: 4px 0 0;
+}

@@ -1,0 +1,37 @@
+{
+  "manifest_version": 3,
+  "name": "아이디어스 판매량 측정기",
+  "version": "2.0.1",
+  "description": "아이디어스 검색 결과에 판매량, 리뷰 증가, 광고 제외 자연 순위를 표시합니다.",
+  "permissions": [
+    "storage",
+    "alarms",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://www.idus.com/*",
+    "https://raw.githubusercontent.com/*",
+    "https://*.github.io/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.idus.com/v2/search*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "styles.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_title": "아이디어스 판매량 측정기",
+    "default_popup": "popup.html"
+  }
+}

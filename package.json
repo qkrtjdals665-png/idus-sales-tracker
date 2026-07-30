@@ -1,0 +1,13 @@
+{
+  "name": "idus-sales-tracker-cloud",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node collector/collect.mjs",
+    "test": "node --test collector/collector.test.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.62.0"
+  }
+}

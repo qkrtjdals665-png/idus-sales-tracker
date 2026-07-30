@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>아이디어스 판매량 측정기</title>
+    <link rel="stylesheet" href="popup.css">
+  </head>
+  <body>
+    <main>
+      <div class="brand">IDUS SALES</div>
+      <h1>판매량 측정기</h1>
+      <p class="description">
+        검색 결과 상품 카드에 누적·오늘·최근 7일 판매량을 표시합니다.
+      </p>
+
+      <section class="status">
+        <div>
+          <span>추적 상품</span>
+          <strong id="tracked">-</strong>
+        </div>
+        <div>
+          <span>확인 완료</span>
+          <strong id="checked">-</strong>
+        </div>
+      </section>
+
+      <p id="lastChecked" class="last-checked">마지막 확인: -</p>
+      <button id="refresh" type="button">현재 검색 결과 새로 확인</button>
+      <p id="message" class="message" aria-live="polite"></p>
+
+      <section class="cloud">
+        <label for="cloudUrl">GitHub 데이터 주소</label>
+        <input
+          id="cloudUrl"
+          type="url"
+          placeholder="https://raw.githubusercontent.com/.../tracker.json"
+        >
+        <button id="saveCloud" class="secondary" type="button">서버 연결 저장</button>
+        <p id="cloudStatus">서버 미연결</p>
+      </section>
+
+      <aside>
+        <strong>집계 기준</strong>
+        <p>
+          오늘 판매량은 자정 이후 저장한 누적값과 현재값의 차이입니다.
+          서버를 연결하면 PC가 꺼져 있어도 판매·리뷰·자연 순위 기록이
+          이어집니다.
+        </p>
+      </aside>
+    </main>
+    <script src="popup.js"></script>
+  </body>
+</html>
