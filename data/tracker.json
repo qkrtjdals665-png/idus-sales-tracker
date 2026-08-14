@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T16:05:40.121Z",
+  "updatedAt": "2026-08-14T15:59:59.420Z",
   "keywords": {
     "액막이명태": {
       "searchUrl": "https://www.idus.com/v2/search?keyword=%EC%95%A1%EB%A7%89%EC%9D%B4%EB%AA%85%ED%83%9C&keyword_channel=user",
@@ -3795,6 +3795,231 @@
               "url": "https://www.idus.com/v2/product/6aef7c46-6fa7-4453-88dd-84e847a2def7",
               "title": "행운🍀액막이 명태 도어벨🎁선물포장+카드+쇼핑",
               "artist": "라라바비",
+              "reviews": 36,
+              "advertised": false,
+              "pagePosition": 20,
+              "organicRank": 12,
+              "totalSales": 332
+            }
+          }
+        },
+        "2026-08-15": {
+          "capturedAt": "2026-08-14T15:59:59.382Z",
+          "products": {
+            "a7b5ce98-e63d-487e-b8a5-014d0e72805f": {
+              "id": "a7b5ce98-e63d-487e-b8a5-014d0e72805f",
+              "url": "https://www.idus.com/v2/product/a7b5ce98-e63d-487e-b8a5-014d0e72805f",
+              "title": "액막이 명태 자개 키링",
+              "artist": "",
+              "reviews": 3,
+              "advertised": true,
+              "pagePosition": 1,
+              "organicRank": null,
+              "totalSales": null
+            },
+            "8b7a5900-2855-418c-b8a9-777633fa2db4": {
+              "id": "8b7a5900-2855-418c-b8a9-777633fa2db4",
+              "url": "https://www.idus.com/v2/product/8b7a5900-2855-418c-b8a9-777633fa2db4",
+              "title": "진짜 액막이명태 | 현관 풍수 개업 집들이 선물",
+              "artist": "",
+              "reviews": 358,
+              "advertised": true,
+              "pagePosition": 2,
+              "organicRank": null,
+              "totalSales": 1531
+            },
+            "a05f2991-e54c-4bf6-8b32-ff988ce06e25": {
+              "id": "a05f2991-e54c-4bf6-8b32-ff988ce06e25",
+              "url": "https://www.idus.com/v2/product/a05f2991-e54c-4bf6-8b32-ff988ce06e25",
+              "title": "[소원각인/편백나무🌳] 액막이명태 북어 당일배송 현관",
+              "artist": "",
+              "reviews": 93,
+              "advertised": false,
+              "pagePosition": 3,
+              "organicRank": 1,
+              "totalSales": 1135
+            },
+            "9973ee27-7ae0-4981-82de-4f89d788b6eb": {
+              "id": "9973ee27-7ae0-4981-82de-4f89d788b6eb",
+              "url": "https://www.idus.com/v2/product/9973ee27-7ae0-4981-82de-4f89d788b6eb",
+              "title": "❤️당일발송❤️☘️복을 불러오는 소코뚜레 도어벨☘️",
+              "artist": "",
+              "reviews": 10,
+              "advertised": false,
+              "pagePosition": 4,
+              "organicRank": 2,
+              "totalSales": 73
+            },
+            "93f63103-8032-4de5-b4db-fb11a6c60e0f": {
+              "id": "93f63103-8032-4de5-b4db-fb11a6c60e0f",
+              "url": "https://www.idus.com/v2/product/93f63103-8032-4de5-b4db-fb11a6c60e0f",
+              "title": "[당일발송🧡]복을 쓸어담는 싸리빗자루 액막이명태",
+              "artist": "",
+              "reviews": 9,
+              "advertised": true,
+              "pagePosition": 5,
+              "organicRank": null,
+              "totalSales": null
+            },
+            "27dae5bd-4ae1-48b2-a10f-ade7685a2f29": {
+              "id": "27dae5bd-4ae1-48b2-a10f-ade7685a2f29",
+              "url": "https://www.idus.com/v2/product/27dae5bd-4ae1-48b2-a10f-ade7685a2f29",
+              "title": "꽃명태도어벨",
+              "artist": "",
+              "reviews": 53,
+              "advertised": true,
+              "pagePosition": 6,
+              "organicRank": null,
+              "totalSales": 185
+            },
+            "5ff57680-bbd8-4905-86a8-3eca6d0faa64": {
+              "id": "5ff57680-bbd8-4905-86a8-3eca6d0faa64",
+              "url": "https://www.idus.com/v2/product/5ff57680-bbd8-4905-86a8-3eca6d0faa64",
+              "title": "(선물) 갓/학사모 쓴 액막이명태와 네잎클로버 키링",
+              "artist": "",
+              "reviews": 87,
+              "advertised": false,
+              "pagePosition": 7,
+              "organicRank": 3,
+              "totalSales": 1006
+            },
+            "d618d40c-f545-40db-b31c-fc2e4adbe1e7": {
+              "id": "d618d40c-f545-40db-b31c-fc2e4adbe1e7",
+              "url": "https://www.idus.com/v2/product/d618d40c-f545-40db-b31c-fc2e4adbe1e7",
+              "title": "행운을주는 선물 황동 액막이명태, 해바라기 풍경,도어벨",
+              "artist": "",
+              "reviews": 49,
+              "advertised": false,
+              "pagePosition": 8,
+              "organicRank": 4,
+              "totalSales": 953
+            },
+            "90f9262e-76df-4117-a436-a2365408edd3": {
+              "id": "90f9262e-76df-4117-a436-a2365408edd3",
+              "url": "https://www.idus.com/v2/product/90f9262e-76df-4117-a436-a2365408edd3",
+              "title": "액막이 명태 풍경 편백나무 인테리어 소품 집들이 개업",
+              "artist": "",
+              "reviews": 18,
+              "advertised": false,
+              "pagePosition": 9,
+              "organicRank": 5,
+              "totalSales": 40
+            },
+            "e468ac5f-a93f-4a1e-b945-38aee386a0a6": {
+              "id": "e468ac5f-a93f-4a1e-b945-38aee386a0a6",
+              "url": "https://www.idus.com/v2/product/e468ac5f-a93f-4a1e-b945-38aee386a0a6",
+              "title": "전통문양 액막이 명태 도어벨 현관문종 단청 색동 자개",
+              "artist": "",
+              "reviews": 12,
+              "advertised": false,
+              "pagePosition": 10,
+              "organicRank": 6,
+              "totalSales": 146
+            },
+            "ec6075d8-7ede-4c4f-b7f1-1e41616cd179": {
+              "id": "ec6075d8-7ede-4c4f-b7f1-1e41616cd179",
+              "url": "https://www.idus.com/v2/product/ec6075d8-7ede-4c4f-b7f1-1e41616cd179",
+              "title": "[당일출고]특가 원목 NEW미니액막이명태 북어",
+              "artist": "",
+              "reviews": 901,
+              "advertised": true,
+              "pagePosition": 11,
+              "organicRank": null,
+              "totalSales": 5111
+            },
+            "4af5a7b8-f645-4d3b-a04a-4a76388958cb": {
+              "id": "4af5a7b8-f645-4d3b-a04a-4a76388958cb",
+              "url": "https://www.idus.com/v2/product/4af5a7b8-f645-4d3b-a04a-4a76388958cb",
+              "title": "프리미엄선물/각인🎁액막이명태 무드등 개업 이사 선물",
+              "artist": "",
+              "reviews": 1,
+              "advertised": true,
+              "pagePosition": 12,
+              "organicRank": null,
+              "totalSales": 34
+            },
+            "f90f7f8f-51eb-4378-805d-81e1d2b6a42c": {
+              "id": "f90f7f8f-51eb-4378-805d-81e1d2b6a42c",
+              "url": "https://www.idus.com/v2/product/f90f7f8f-51eb-4378-805d-81e1d2b6a42c",
+              "title": "[개업/집들이선물🎁]행운 액막이명태 소중대 소프트블랑",
+              "artist": "",
+              "reviews": 229,
+              "advertised": false,
+              "pagePosition": 13,
+              "organicRank": 7,
+              "totalSales": 3263
+            },
+            "0cfbfc79-fd52-487e-a4b9-04164772d536": {
+              "id": "0cfbfc79-fd52-487e-a4b9-04164772d536",
+              "url": "https://www.idus.com/v2/product/0cfbfc79-fd52-487e-a4b9-04164772d536",
+              "title": "[소원각인/집들이선물🎁] 액막이명태 당일배송❤️",
+              "artist": "",
+              "reviews": 22,
+              "advertised": false,
+              "pagePosition": 14,
+              "organicRank": 8,
+              "totalSales": 167
+            },
+            "e547766a-6f1f-4ec6-b528-fa5ab12e89c9": {
+              "id": "e547766a-6f1f-4ec6-b528-fa5ab12e89c9",
+              "url": "https://www.idus.com/v2/product/e547766a-6f1f-4ec6-b528-fa5ab12e89c9",
+              "title": "🍀합격기원🍀액막이 명태  키링 입학 선물 커스텀",
+              "artist": "",
+              "reviews": 10,
+              "advertised": true,
+              "pagePosition": 15,
+              "organicRank": null,
+              "totalSales": 42
+            },
+            "6e1294bf-5c97-460d-97b4-8dc78abfed21": {
+              "id": "6e1294bf-5c97-460d-97b4-8dc78abfed21",
+              "url": "https://www.idus.com/v2/product/6e1294bf-5c97-460d-97b4-8dc78abfed21",
+              "title": "플라워 액막이명태 자석 현관문 도어벨 집들이선물",
+              "artist": "",
+              "reviews": 8,
+              "advertised": true,
+              "pagePosition": 16,
+              "organicRank": null,
+              "totalSales": 44
+            },
+            "a0e417f8-9ee6-4f80-9af2-6edeae0e63d4": {
+              "id": "a0e417f8-9ee6-4f80-9af2-6edeae0e63d4",
+              "url": "https://www.idus.com/v2/product/a0e417f8-9ee6-4f80-9af2-6edeae0e63d4",
+              "title": "[행운가득] 액막이 고양이 강아지 집들이 개업 선물",
+              "artist": "",
+              "reviews": 116,
+              "advertised": false,
+              "pagePosition": 17,
+              "organicRank": 9,
+              "totalSales": 1178
+            },
+            "796f0fa7-e5cb-4aed-907b-400abd234a78": {
+              "id": "796f0fa7-e5cb-4aed-907b-400abd234a78",
+              "url": "https://www.idus.com/v2/product/796f0fa7-e5cb-4aed-907b-400abd234a78",
+              "title": "[당일발송🧡]차량용 룸미러 도자기 액막이명태",
+              "artist": "",
+              "reviews": 139,
+              "advertised": false,
+              "pagePosition": 18,
+              "organicRank": 10,
+              "totalSales": 1420
+            },
+            "8efcbf96-eca9-447c-a314-7e52f1edefba": {
+              "id": "8efcbf96-eca9-447c-a314-7e52f1edefba",
+              "url": "https://www.idus.com/v2/product/8efcbf96-eca9-447c-a314-7e52f1edefba",
+              "title": "명태 액막이 북어 차량용 가방 키링 액세서리 소형",
+              "artist": "",
+              "reviews": 13,
+              "advertised": false,
+              "pagePosition": 19,
+              "organicRank": 11,
+              "totalSales": 84
+            },
+            "6aef7c46-6fa7-4453-88dd-84e847a2def7": {
+              "id": "6aef7c46-6fa7-4453-88dd-84e847a2def7",
+              "url": "https://www.idus.com/v2/product/6aef7c46-6fa7-4453-88dd-84e847a2def7",
+              "title": "행운🍀액막이 명태 도어벨🎁선물포장+카드+쇼핑",
+              "artist": "",
               "reviews": 36,
               "advertised": false,
               "pagePosition": 20,
