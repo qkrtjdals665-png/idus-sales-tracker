@@ -1,235 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T19:09:49.456Z",
+  "updatedAt": "2026-10-23T19:18:05.441Z",
   "keywords": {
     "액막이명태": {
       "searchUrl": "https://www.idus.com/v2/search?keyword=%EC%95%A1%EB%A7%89%EC%9D%B4%EB%AA%85%ED%83%9C&keyword_channel=user",
       "snapshots": {
-        "2026-09-13": {
-          "capturedAt": "2026-09-12T17:44:33.001Z",
-          "products": {
-            "8b7a5900-2855-418c-b8a9-777633fa2db4": {
-              "id": "8b7a5900-2855-418c-b8a9-777633fa2db4",
-              "url": "https://www.idus.com/v2/product/8b7a5900-2855-418c-b8a9-777633fa2db4",
-              "title": "진짜 액막이명태 | 현관 풍수 개업 집들이 선물",
-              "artist": "",
-              "reviews": 377,
-              "advertised": true,
-              "pagePosition": 1,
-              "organicRank": null,
-              "totalSales": 1636
-            },
-            "e547766a-6f1f-4ec6-b528-fa5ab12e89c9": {
-              "id": "e547766a-6f1f-4ec6-b528-fa5ab12e89c9",
-              "url": "https://www.idus.com/v2/product/e547766a-6f1f-4ec6-b528-fa5ab12e89c9",
-              "title": "🍀합격기원🍀액막이 명태  키링 입학 선물 커스텀",
-              "artist": "",
-              "reviews": 10,
-              "advertised": true,
-              "pagePosition": 2,
-              "organicRank": null,
-              "totalSales": 43
-            },
-            "0cfbfc79-fd52-487e-a4b9-04164772d536": {
-              "id": "0cfbfc79-fd52-487e-a4b9-04164772d536",
-              "url": "https://www.idus.com/v2/product/0cfbfc79-fd52-487e-a4b9-04164772d536",
-              "title": "[소원각인/집들이선물🎁] 액막이명태 당일배송❤️",
-              "artist": "",
-              "reviews": 23,
-              "advertised": false,
-              "pagePosition": 3,
-              "organicRank": 1,
-              "totalSales": 174
-            },
-            "5ff57680-bbd8-4905-86a8-3eca6d0faa64": {
-              "id": "5ff57680-bbd8-4905-86a8-3eca6d0faa64",
-              "url": "https://www.idus.com/v2/product/5ff57680-bbd8-4905-86a8-3eca6d0faa64",
-              "title": "(추석선물) 갓 쓴 액막이명태와 네잎클로버 키링",
-              "artist": "",
-              "reviews": 91,
-              "advertised": false,
-              "pagePosition": 4,
-              "organicRank": 2,
-              "totalSales": 1045
-            },
-            "80aa1cdb-ac61-4716-b71a-4547c2c72632": {
-              "id": "80aa1cdb-ac61-4716-b71a-4547c2c72632",
-              "url": "https://www.idus.com/v2/product/80aa1cdb-ac61-4716-b71a-4547c2c72632",
-              "title": "[당일출고]특가 원목 미니액막이명태 북어 차량용품",
-              "artist": "",
-              "reviews": 1079,
-              "advertised": true,
-              "pagePosition": 5,
-              "organicRank": null,
-              "totalSales": 7172
-            },
-            "e0803e32-3b51-46b8-b87b-308ab248b8de": {
-              "id": "e0803e32-3b51-46b8-b87b-308ab248b8de",
-              "url": "https://www.idus.com/v2/product/e0803e32-3b51-46b8-b87b-308ab248b8de",
-              "title": "오리지널 복태금태랑 도어벨 액막이명태 럭인피쉬",
-              "artist": "",
-              "reviews": 10,
-              "advertised": true,
-              "pagePosition": 6,
-              "organicRank": null,
-              "totalSales": 36
-            },
-            "e468ac5f-a93f-4a1e-b945-38aee386a0a6": {
-              "id": "e468ac5f-a93f-4a1e-b945-38aee386a0a6",
-              "url": "https://www.idus.com/v2/product/e468ac5f-a93f-4a1e-b945-38aee386a0a6",
-              "title": "전통문양 액막이 명태 도어벨 현관문종 단청 색동 자개",
-              "artist": "",
-              "reviews": 15,
-              "advertised": false,
-              "pagePosition": 7,
-              "organicRank": 3,
-              "totalSales": 157
-            },
-            "65b7787f-2b82-486e-9be9-aa4bf553eb62": {
-              "id": "65b7787f-2b82-486e-9be9-aa4bf553eb62",
-              "url": "https://www.idus.com/v2/product/65b7787f-2b82-486e-9be9-aa4bf553eb62",
-              "title": "[idus단독]행운가득! 액막이명태 키링|자석",
-              "artist": "",
-              "reviews": 112,
-              "advertised": false,
-              "pagePosition": 8,
-              "organicRank": 4,
-              "totalSales": 662
-            },
-            "ddfd0499-19c5-4af3-90e3-8482a08aa2a1": {
-              "id": "ddfd0499-19c5-4af3-90e3-8482a08aa2a1",
-              "url": "https://www.idus.com/v2/product/ddfd0499-19c5-4af3-90e3-8482a08aa2a1",
-              "title": "(추석선물) 명태로 액막고 복조리로 복담고 도어벨",
-              "artist": "",
-              "reviews": 175,
-              "advertised": false,
-              "pagePosition": 9,
-              "organicRank": 5,
-              "totalSales": 1545
-            },
-            "dd0d95fc-5995-4c0a-8ebd-d555d30524ab": {
-              "id": "dd0d95fc-5995-4c0a-8ebd-d555d30524ab",
-              "url": "https://www.idus.com/v2/product/dd0d95fc-5995-4c0a-8ebd-d555d30524ab",
-              "title": "[커스텀]안전운전 액막이 명태 자동차 룸미러 차걸이",
-              "artist": "",
-              "reviews": 112,
-              "advertised": false,
-              "pagePosition": 10,
-              "organicRank": 6,
-              "totalSales": 794
-            },
-            "21ef8305-5931-47a4-b2a6-9ab974e7d82c": {
-              "id": "21ef8305-5931-47a4-b2a6-9ab974e7d82c",
-              "url": "https://www.idus.com/v2/product/21ef8305-5931-47a4-b2a6-9ab974e7d82c",
-              "title": "[각인가능]액막이 명태 북어 도어벨 메세지 현관문종",
-              "artist": "",
-              "reviews": 3,
-              "advertised": true,
-              "pagePosition": 11,
-              "organicRank": null,
-              "totalSales": 37
-            },
-            "ec6075d8-7ede-4c4f-b7f1-1e41616cd179": {
-              "id": "ec6075d8-7ede-4c4f-b7f1-1e41616cd179",
-              "url": "https://www.idus.com/v2/product/ec6075d8-7ede-4c4f-b7f1-1e41616cd179",
-              "title": "[당일출고]특가 원목 NEW미니액막이명태 북어",
-              "artist": "",
-              "reviews": 906,
-              "advertised": true,
-              "pagePosition": 12,
-              "organicRank": null,
-              "totalSales": 5169
-            },
-            "cde8a2f4-4e54-4f6b-93aa-69dbe385c7b1": {
-              "id": "cde8a2f4-4e54-4f6b-93aa-69dbe385c7b1",
-              "url": "https://www.idus.com/v2/product/cde8a2f4-4e54-4f6b-93aa-69dbe385c7b1",
-              "title": "[당일발송🧡]도자기 액막이명태 (도어벨,키링 추가)",
-              "artist": "",
-              "reviews": 268,
-              "advertised": false,
-              "pagePosition": 13,
-              "organicRank": 7,
-              "totalSales": 2834
-            },
-            "f90f7f8f-51eb-4378-805d-81e1d2b6a42c": {
-              "id": "f90f7f8f-51eb-4378-805d-81e1d2b6a42c",
-              "url": "https://www.idus.com/v2/product/f90f7f8f-51eb-4378-805d-81e1d2b6a42c",
-              "title": "[개업/집들이선물🎁]행운 액막이명태 소중대 소프트블랑",
-              "artist": "",
-              "reviews": 230,
-              "advertised": false,
-              "pagePosition": 14,
-              "organicRank": 8,
-              "totalSales": 3273
-            },
-            "e508220e-208d-4dd1-bef1-5b619e99df12": {
-              "id": "e508220e-208d-4dd1-bef1-5b619e99df12",
-              "url": "https://www.idus.com/v2/product/e508220e-208d-4dd1-bef1-5b619e99df12",
-              "title": "골드 액막이 명태 도어벨 복참 현관 자석종 집들이선물",
-              "artist": "",
-              "reviews": 37,
-              "advertised": true,
-              "pagePosition": 15,
-              "organicRank": null,
-              "totalSales": 149
-            },
-            "0f09ad20-15f5-420b-9964-56c2e1f676de": {
-              "id": "0f09ad20-15f5-420b-9964-56c2e1f676de",
-              "url": "https://www.idus.com/v2/product/0f09ad20-15f5-420b-9964-56c2e1f676de",
-              "title": "향기 담은 달항아리 도어벨 월넛 인테리어소품 액막이명태",
-              "artist": "",
-              "reviews": 15,
-              "advertised": true,
-              "pagePosition": 16,
-              "organicRank": null,
-              "totalSales": 56
-            },
-            "9973ee27-7ae0-4981-82de-4f89d788b6eb": {
-              "id": "9973ee27-7ae0-4981-82de-4f89d788b6eb",
-              "url": "https://www.idus.com/v2/product/9973ee27-7ae0-4981-82de-4f89d788b6eb",
-              "title": "❤️오늘출발❤️☘️복을 불러오는 소코뚜레 도어벨☘️",
-              "artist": "",
-              "reviews": 14,
-              "advertised": false,
-              "pagePosition": 17,
-              "organicRank": 9,
-              "totalSales": 122
-            },
-            "d02ce4ac-c4c2-4849-ba12-9beca4aec7b8": {
-              "id": "d02ce4ac-c4c2-4849-ba12-9beca4aec7b8",
-              "url": "https://www.idus.com/v2/product/d02ce4ac-c4c2-4849-ba12-9beca4aec7b8",
-              "title": "[커스텀] 액막이 명태 미니 키링 행운 합격 대박",
-              "artist": "",
-              "reviews": 375,
-              "advertised": false,
-              "pagePosition": 18,
-              "organicRank": 10,
-              "totalSales": 2167
-            },
-            "ddb1b418-ca27-404a-918d-f24d282b5cfe": {
-              "id": "ddb1b418-ca27-404a-918d-f24d282b5cfe",
-              "url": "https://www.idus.com/v2/product/ddb1b418-ca27-404a-918d-f24d282b5cfe",
-              "title": "[당일발송]편백 원목 액막이명태 개업 이사 집들이 선물",
-              "artist": "",
-              "reviews": 55,
-              "advertised": false,
-              "pagePosition": 19,
-              "organicRank": 11,
-              "totalSales": 374
-            },
-            "d618d40c-f545-40db-b31c-fc2e4adbe1e7": {
-              "id": "d618d40c-f545-40db-b31c-fc2e4adbe1e7",
-              "url": "https://www.idus.com/v2/product/d618d40c-f545-40db-b31c-fc2e4adbe1e7",
-              "title": "행운을주는 선물 황동 액막이명태, 해바라기 풍경,도어벨",
-              "artist": "",
-              "reviews": 51,
-              "advertised": false,
-              "pagePosition": 20,
-              "organicRank": 12,
-              "totalSales": 978
-            }
-          }
-        },
         "2026-09-14": {
           "capturedAt": "2026-09-13T18:05:43.700Z",
           "products": {
@@ -8501,6 +8276,231 @@
               "pagePosition": 20,
               "organicRank": 20,
               "totalSales": null
+            }
+          }
+        },
+        "2026-10-24": {
+          "capturedAt": "2026-10-23T19:18:05.403Z",
+          "products": {
+            "93b96fdb-a3f7-421b-adef-a747c2c7957e": {
+              "id": "93b96fdb-a3f7-421b-adef-a747c2c7957e",
+              "url": "https://www.idus.com/v2/product/93b96fdb-a3f7-421b-adef-a747c2c7957e",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 1,
+              "organicRank": 1,
+              "totalSales": 545
+            },
+            "6aef7c46-6fa7-4453-88dd-84e847a2def7": {
+              "id": "6aef7c46-6fa7-4453-88dd-84e847a2def7",
+              "url": "https://www.idus.com/v2/product/6aef7c46-6fa7-4453-88dd-84e847a2def7",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 2,
+              "organicRank": 2,
+              "totalSales": 337
+            },
+            "ddb1b418-ca27-404a-918d-f24d282b5cfe": {
+              "id": "ddb1b418-ca27-404a-918d-f24d282b5cfe",
+              "url": "https://www.idus.com/v2/product/ddb1b418-ca27-404a-918d-f24d282b5cfe",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 3,
+              "organicRank": 3,
+              "totalSales": 388
+            },
+            "f5975969-4f42-4ba2-ad3f-14ae59475470": {
+              "id": "f5975969-4f42-4ba2-ad3f-14ae59475470",
+              "url": "https://www.idus.com/v2/product/f5975969-4f42-4ba2-ad3f-14ae59475470",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 4,
+              "organicRank": 4,
+              "totalSales": 176
+            },
+            "a101b0f9-17be-4fca-9733-703308c143bb": {
+              "id": "a101b0f9-17be-4fca-9733-703308c143bb",
+              "url": "https://www.idus.com/v2/product/a101b0f9-17be-4fca-9733-703308c143bb",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 5,
+              "organicRank": 5,
+              "totalSales": 151
+            },
+            "232ee030-a76a-4002-ac82-44e87b01724b": {
+              "id": "232ee030-a76a-4002-ac82-44e87b01724b",
+              "url": "https://www.idus.com/v2/product/232ee030-a76a-4002-ac82-44e87b01724b",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 6,
+              "organicRank": 6,
+              "totalSales": 52
+            },
+            "23902640-4b38-44dc-b5fa-ada4bd806014": {
+              "id": "23902640-4b38-44dc-b5fa-ada4bd806014",
+              "url": "https://www.idus.com/v2/product/23902640-4b38-44dc-b5fa-ada4bd806014",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 7,
+              "organicRank": 7,
+              "totalSales": 6099
+            },
+            "33f661d9-1095-46d2-97bf-a19a76673af4": {
+              "id": "33f661d9-1095-46d2-97bf-a19a76673af4",
+              "url": "https://www.idus.com/v2/product/33f661d9-1095-46d2-97bf-a19a76673af4",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 8,
+              "organicRank": 8,
+              "totalSales": 261
+            },
+            "2ee783e6-1fa5-49d8-b7d5-49281dd6c638": {
+              "id": "2ee783e6-1fa5-49d8-b7d5-49281dd6c638",
+              "url": "https://www.idus.com/v2/product/2ee783e6-1fa5-49d8-b7d5-49281dd6c638",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 9,
+              "organicRank": 9,
+              "totalSales": 976
+            },
+            "8b7a5900-2855-418c-b8a9-777633fa2db4": {
+              "id": "8b7a5900-2855-418c-b8a9-777633fa2db4",
+              "url": "https://www.idus.com/v2/product/8b7a5900-2855-418c-b8a9-777633fa2db4",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 10,
+              "organicRank": 10,
+              "totalSales": 1719
+            },
+            "d53a4cd7-e469-42cb-92e6-96d493ddc6c8": {
+              "id": "d53a4cd7-e469-42cb-92e6-96d493ddc6c8",
+              "url": "https://www.idus.com/v2/product/d53a4cd7-e469-42cb-92e6-96d493ddc6c8",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 11,
+              "organicRank": 11,
+              "totalSales": 963
+            },
+            "a0d47daa-4d8e-4d4f-bf24-b56dbecfc2ed": {
+              "id": "a0d47daa-4d8e-4d4f-bf24-b56dbecfc2ed",
+              "url": "https://www.idus.com/v2/product/a0d47daa-4d8e-4d4f-bf24-b56dbecfc2ed",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 12,
+              "organicRank": 12,
+              "totalSales": 80
+            },
+            "963c1fe1-c517-4697-ae59-8c60c4c248c4": {
+              "id": "963c1fe1-c517-4697-ae59-8c60c4c248c4",
+              "url": "https://www.idus.com/v2/product/963c1fe1-c517-4697-ae59-8c60c4c248c4",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 13,
+              "organicRank": 13,
+              "totalSales": 107
+            },
+            "5c80632a-3c1b-44ab-89ed-ac00c6658c26": {
+              "id": "5c80632a-3c1b-44ab-89ed-ac00c6658c26",
+              "url": "https://www.idus.com/v2/product/5c80632a-3c1b-44ab-89ed-ac00c6658c26",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 14,
+              "organicRank": 14,
+              "totalSales": 4888
+            },
+            "26065195-5d71-4547-a865-8b9c4738acc2": {
+              "id": "26065195-5d71-4547-a865-8b9c4738acc2",
+              "url": "https://www.idus.com/v2/product/26065195-5d71-4547-a865-8b9c4738acc2",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 15,
+              "organicRank": 15,
+              "totalSales": 312
+            },
+            "ba8017d4-1baf-4952-af12-a4bebcc8bf57": {
+              "id": "ba8017d4-1baf-4952-af12-a4bebcc8bf57",
+              "url": "https://www.idus.com/v2/product/ba8017d4-1baf-4952-af12-a4bebcc8bf57",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 16,
+              "organicRank": 16,
+              "totalSales": 43
+            },
+            "d3c55d8c-7dee-4f82-8134-2e56a816f818": {
+              "id": "d3c55d8c-7dee-4f82-8134-2e56a816f818",
+              "url": "https://www.idus.com/v2/product/d3c55d8c-7dee-4f82-8134-2e56a816f818",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 17,
+              "organicRank": 17,
+              "totalSales": 58
+            },
+            "83a4f3cd-0652-46c6-b15f-71a008595c1f": {
+              "id": "83a4f3cd-0652-46c6-b15f-71a008595c1f",
+              "url": "https://www.idus.com/v2/product/83a4f3cd-0652-46c6-b15f-71a008595c1f",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 18,
+              "organicRank": 18,
+              "totalSales": 295
+            },
+            "522090d5-565d-4d3e-b7b8-2be3ce5eeccf": {
+              "id": "522090d5-565d-4d3e-b7b8-2be3ce5eeccf",
+              "url": "https://www.idus.com/v2/product/522090d5-565d-4d3e-b7b8-2be3ce5eeccf",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 19,
+              "organicRank": 19,
+              "totalSales": null
+            },
+            "88a7948c-2e95-4893-a6b3-b92ed7fb393a": {
+              "id": "88a7948c-2e95-4893-a6b3-b92ed7fb393a",
+              "url": "https://www.idus.com/v2/product/88a7948c-2e95-4893-a6b3-b92ed7fb393a",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 20,
+              "organicRank": 20,
+              "totalSales": 122
             }
           }
         }
