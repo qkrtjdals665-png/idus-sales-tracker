@@ -1,235 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T22:32:54.616Z",
+  "updatedAt": "2026-11-19T22:38:29.027Z",
   "keywords": {
     "액막이명태": {
       "searchUrl": "https://www.idus.com/v2/search?keyword=%EC%95%A1%EB%A7%89%EC%9D%B4%EB%AA%85%ED%83%9C&keyword_channel=user",
       "snapshots": {
-        "2026-10-10": {
-          "capturedAt": "2026-10-09T20:04:37.130Z",
-          "products": {
-            "65b7787f-2b82-486e-9be9-aa4bf553eb62": {
-              "id": "65b7787f-2b82-486e-9be9-aa4bf553eb62",
-              "url": "https://www.idus.com/v2/product/65b7787f-2b82-486e-9be9-aa4bf553eb62",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 1,
-              "organicRank": 1,
-              "totalSales": 678
-            },
-            "9973ee27-7ae0-4981-82de-4f89d788b6eb": {
-              "id": "9973ee27-7ae0-4981-82de-4f89d788b6eb",
-              "url": "https://www.idus.com/v2/product/9973ee27-7ae0-4981-82de-4f89d788b6eb",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 2,
-              "organicRank": 2,
-              "totalSales": 142
-            },
-            "ddb1b418-ca27-404a-918d-f24d282b5cfe": {
-              "id": "ddb1b418-ca27-404a-918d-f24d282b5cfe",
-              "url": "https://www.idus.com/v2/product/ddb1b418-ca27-404a-918d-f24d282b5cfe",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 3,
-              "organicRank": 3,
-              "totalSales": 387
-            },
-            "cde8a2f4-4e54-4f6b-93aa-69dbe385c7b1": {
-              "id": "cde8a2f4-4e54-4f6b-93aa-69dbe385c7b1",
-              "url": "https://www.idus.com/v2/product/cde8a2f4-4e54-4f6b-93aa-69dbe385c7b1",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 4,
-              "organicRank": 4,
-              "totalSales": 2856
-            },
-            "e468ac5f-a93f-4a1e-b945-38aee386a0a6": {
-              "id": "e468ac5f-a93f-4a1e-b945-38aee386a0a6",
-              "url": "https://www.idus.com/v2/product/e468ac5f-a93f-4a1e-b945-38aee386a0a6",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 5,
-              "organicRank": 5,
-              "totalSales": 170
-            },
-            "a101b0f9-17be-4fca-9733-703308c143bb": {
-              "id": "a101b0f9-17be-4fca-9733-703308c143bb",
-              "url": "https://www.idus.com/v2/product/a101b0f9-17be-4fca-9733-703308c143bb",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 6,
-              "organicRank": 6,
-              "totalSales": 143
-            },
-            "ae8fcc5b-0f67-4dfd-b1b9-c78e2325d40c": {
-              "id": "ae8fcc5b-0f67-4dfd-b1b9-c78e2325d40c",
-              "url": "https://www.idus.com/v2/product/ae8fcc5b-0f67-4dfd-b1b9-c78e2325d40c",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 7,
-              "organicRank": 7,
-              "totalSales": 1485
-            },
-            "93b96fdb-a3f7-421b-adef-a747c2c7957e": {
-              "id": "93b96fdb-a3f7-421b-adef-a747c2c7957e",
-              "url": "https://www.idus.com/v2/product/93b96fdb-a3f7-421b-adef-a747c2c7957e",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 8,
-              "organicRank": 8,
-              "totalSales": 544
-            },
-            "8efcbf96-eca9-447c-a314-7e52f1edefba": {
-              "id": "8efcbf96-eca9-447c-a314-7e52f1edefba",
-              "url": "https://www.idus.com/v2/product/8efcbf96-eca9-447c-a314-7e52f1edefba",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 9,
-              "organicRank": 9,
-              "totalSales": 140
-            },
-            "1324af1e-6d09-4f62-b5ee-86ebfb5dc711": {
-              "id": "1324af1e-6d09-4f62-b5ee-86ebfb5dc711",
-              "url": "https://www.idus.com/v2/product/1324af1e-6d09-4f62-b5ee-86ebfb5dc711",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 10,
-              "organicRank": 10,
-              "totalSales": 56
-            },
-            "2ee783e6-1fa5-49d8-b7d5-49281dd6c638": {
-              "id": "2ee783e6-1fa5-49d8-b7d5-49281dd6c638",
-              "url": "https://www.idus.com/v2/product/2ee783e6-1fa5-49d8-b7d5-49281dd6c638",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 11,
-              "organicRank": 11,
-              "totalSales": 975
-            },
-            "5c80632a-3c1b-44ab-89ed-ac00c6658c26": {
-              "id": "5c80632a-3c1b-44ab-89ed-ac00c6658c26",
-              "url": "https://www.idus.com/v2/product/5c80632a-3c1b-44ab-89ed-ac00c6658c26",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 12,
-              "organicRank": 12,
-              "totalSales": 4872
-            },
-            "543c72d2-548c-4d0c-b654-15078e36c64c": {
-              "id": "543c72d2-548c-4d0c-b654-15078e36c64c",
-              "url": "https://www.idus.com/v2/product/543c72d2-548c-4d0c-b654-15078e36c64c",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 13,
-              "organicRank": 13,
-              "totalSales": 90
-            },
-            "6aef7c46-6fa7-4453-88dd-84e847a2def7": {
-              "id": "6aef7c46-6fa7-4453-88dd-84e847a2def7",
-              "url": "https://www.idus.com/v2/product/6aef7c46-6fa7-4453-88dd-84e847a2def7",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 14,
-              "organicRank": 14,
-              "totalSales": 336
-            },
-            "f90f7f8f-51eb-4378-805d-81e1d2b6a42c": {
-              "id": "f90f7f8f-51eb-4378-805d-81e1d2b6a42c",
-              "url": "https://www.idus.com/v2/product/f90f7f8f-51eb-4378-805d-81e1d2b6a42c",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 15,
-              "organicRank": 15,
-              "totalSales": 3281
-            },
-            "dd0d95fc-5995-4c0a-8ebd-d555d30524ab": {
-              "id": "dd0d95fc-5995-4c0a-8ebd-d555d30524ab",
-              "url": "https://www.idus.com/v2/product/dd0d95fc-5995-4c0a-8ebd-d555d30524ab",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 16,
-              "organicRank": 16,
-              "totalSales": 803
-            },
-            "27dae5bd-4ae1-48b2-a10f-ade7685a2f29": {
-              "id": "27dae5bd-4ae1-48b2-a10f-ade7685a2f29",
-              "url": "https://www.idus.com/v2/product/27dae5bd-4ae1-48b2-a10f-ade7685a2f29",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 17,
-              "organicRank": 17,
-              "totalSales": 190
-            },
-            "0cfbfc79-fd52-487e-a4b9-04164772d536": {
-              "id": "0cfbfc79-fd52-487e-a4b9-04164772d536",
-              "url": "https://www.idus.com/v2/product/0cfbfc79-fd52-487e-a4b9-04164772d536",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 18,
-              "organicRank": 18,
-              "totalSales": 177
-            },
-            "95de3c26-a128-4dbc-b40d-39a0be513056": {
-              "id": "95de3c26-a128-4dbc-b40d-39a0be513056",
-              "url": "https://www.idus.com/v2/product/95de3c26-a128-4dbc-b40d-39a0be513056",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 19,
-              "organicRank": 19,
-              "totalSales": 143
-            },
-            "be11daa0-4f56-48c7-8d59-46c7533a9598": {
-              "id": "be11daa0-4f56-48c7-8d59-46c7533a9598",
-              "url": "https://www.idus.com/v2/product/be11daa0-4f56-48c7-8d59-46c7533a9598",
-              "title": "",
-              "artist": "",
-              "reviews": 0,
-              "advertised": false,
-              "pagePosition": 20,
-              "organicRank": 20,
-              "totalSales": 220
-            }
-          }
-        },
         "2026-10-11": {
           "capturedAt": "2026-10-10T19:14:30.973Z",
           "products": {
@@ -7544,6 +7319,231 @@
               "pagePosition": 11,
               "organicRank": 11,
               "totalSales": 92
+            }
+          }
+        },
+        "2026-11-20": {
+          "capturedAt": "2026-11-19T22:38:28.726Z",
+          "products": {
+            "ddfd0499-19c5-4af3-90e3-8482a08aa2a1": {
+              "id": "ddfd0499-19c5-4af3-90e3-8482a08aa2a1",
+              "url": "https://www.idus.com/v2/product/ddfd0499-19c5-4af3-90e3-8482a08aa2a1",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 1,
+              "organicRank": 1,
+              "totalSales": 1580
+            },
+            "8efcbf96-eca9-447c-a314-7e52f1edefba": {
+              "id": "8efcbf96-eca9-447c-a314-7e52f1edefba",
+              "url": "https://www.idus.com/v2/product/8efcbf96-eca9-447c-a314-7e52f1edefba",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 2,
+              "organicRank": 2,
+              "totalSales": 166
+            },
+            "796f0fa7-e5cb-4aed-907b-400abd234a78": {
+              "id": "796f0fa7-e5cb-4aed-907b-400abd234a78",
+              "url": "https://www.idus.com/v2/product/796f0fa7-e5cb-4aed-907b-400abd234a78",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 3,
+              "organicRank": 3,
+              "totalSales": 1570
+            },
+            "ae8fcc5b-0f67-4dfd-b1b9-c78e2325d40c": {
+              "id": "ae8fcc5b-0f67-4dfd-b1b9-c78e2325d40c",
+              "url": "https://www.idus.com/v2/product/ae8fcc5b-0f67-4dfd-b1b9-c78e2325d40c",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 4,
+              "organicRank": 4,
+              "totalSales": 1515
+            },
+            "80aa1cdb-ac61-4716-b71a-4547c2c72632": {
+              "id": "80aa1cdb-ac61-4716-b71a-4547c2c72632",
+              "url": "https://www.idus.com/v2/product/80aa1cdb-ac61-4716-b71a-4547c2c72632",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 5,
+              "organicRank": 5,
+              "totalSales": 7234
+            },
+            "a101b0f9-17be-4fca-9733-703308c143bb": {
+              "id": "a101b0f9-17be-4fca-9733-703308c143bb",
+              "url": "https://www.idus.com/v2/product/a101b0f9-17be-4fca-9733-703308c143bb",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 6,
+              "organicRank": 6,
+              "totalSales": 169
+            },
+            "55091448-d1cf-404c-8ad6-1a167d9196c7": {
+              "id": "55091448-d1cf-404c-8ad6-1a167d9196c7",
+              "url": "https://www.idus.com/v2/product/55091448-d1cf-404c-8ad6-1a167d9196c7",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 7,
+              "organicRank": 7,
+              "totalSales": 419
+            },
+            "916185f9-74fa-4af4-9585-7f577382792f": {
+              "id": "916185f9-74fa-4af4-9585-7f577382792f",
+              "url": "https://www.idus.com/v2/product/916185f9-74fa-4af4-9585-7f577382792f",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 8,
+              "organicRank": 8,
+              "totalSales": 118
+            },
+            "d53a4cd7-e469-42cb-92e6-96d493ddc6c8": {
+              "id": "d53a4cd7-e469-42cb-92e6-96d493ddc6c8",
+              "url": "https://www.idus.com/v2/product/d53a4cd7-e469-42cb-92e6-96d493ddc6c8",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 9,
+              "organicRank": 9,
+              "totalSales": 963
+            },
+            "26065195-5d71-4547-a865-8b9c4738acc2": {
+              "id": "26065195-5d71-4547-a865-8b9c4738acc2",
+              "url": "https://www.idus.com/v2/product/26065195-5d71-4547-a865-8b9c4738acc2",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 10,
+              "organicRank": 10,
+              "totalSales": 315
+            },
+            "232ee030-a76a-4002-ac82-44e87b01724b": {
+              "id": "232ee030-a76a-4002-ac82-44e87b01724b",
+              "url": "https://www.idus.com/v2/product/232ee030-a76a-4002-ac82-44e87b01724b",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 11,
+              "organicRank": 11,
+              "totalSales": 52
+            },
+            "50448e72-6b70-48c6-b551-f49798cd0522": {
+              "id": "50448e72-6b70-48c6-b551-f49798cd0522",
+              "url": "https://www.idus.com/v2/product/50448e72-6b70-48c6-b551-f49798cd0522",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 12,
+              "organicRank": 12,
+              "totalSales": 845
+            },
+            "141dce8f-6377-437a-9f17-0df0a584f7cd": {
+              "id": "141dce8f-6377-437a-9f17-0df0a584f7cd",
+              "url": "https://www.idus.com/v2/product/141dce8f-6377-437a-9f17-0df0a584f7cd",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 13,
+              "organicRank": 13,
+              "totalSales": 1851
+            },
+            "deb5be0c-6fb6-4f88-ad92-5949376db59a": {
+              "id": "deb5be0c-6fb6-4f88-ad92-5949376db59a",
+              "url": "https://www.idus.com/v2/product/deb5be0c-6fb6-4f88-ad92-5949376db59a",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 14,
+              "organicRank": 14,
+              "totalSales": 202
+            },
+            "ea632e57-2de2-4782-8912-f3ec33fb19a7": {
+              "id": "ea632e57-2de2-4782-8912-f3ec33fb19a7",
+              "url": "https://www.idus.com/v2/product/ea632e57-2de2-4782-8912-f3ec33fb19a7",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 15,
+              "organicRank": 15,
+              "totalSales": 84
+            },
+            "d3c55d8c-7dee-4f82-8134-2e56a816f818": {
+              "id": "d3c55d8c-7dee-4f82-8134-2e56a816f818",
+              "url": "https://www.idus.com/v2/product/d3c55d8c-7dee-4f82-8134-2e56a816f818",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 16,
+              "organicRank": 16,
+              "totalSales": 58
+            },
+            "f74f3324-c65c-412f-81c9-886f0f81678e": {
+              "id": "f74f3324-c65c-412f-81c9-886f0f81678e",
+              "url": "https://www.idus.com/v2/product/f74f3324-c65c-412f-81c9-886f0f81678e",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 17,
+              "organicRank": 17,
+              "totalSales": 72
+            },
+            "795c33d4-6273-46b3-ae8e-beb525a6f351": {
+              "id": "795c33d4-6273-46b3-ae8e-beb525a6f351",
+              "url": "https://www.idus.com/v2/product/795c33d4-6273-46b3-ae8e-beb525a6f351",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 18,
+              "organicRank": 18,
+              "totalSales": 770
+            },
+            "e0803e32-3b51-46b8-b87b-308ab248b8de": {
+              "id": "e0803e32-3b51-46b8-b87b-308ab248b8de",
+              "url": "https://www.idus.com/v2/product/e0803e32-3b51-46b8-b87b-308ab248b8de",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 19,
+              "organicRank": 19,
+              "totalSales": 38
+            },
+            "be7241a9-1cbb-42b8-b4ce-6d703e2142f7": {
+              "id": "be7241a9-1cbb-42b8-b4ce-6d703e2142f7",
+              "url": "https://www.idus.com/v2/product/be7241a9-1cbb-42b8-b4ce-6d703e2142f7",
+              "title": "",
+              "artist": "",
+              "reviews": 0,
+              "advertised": false,
+              "pagePosition": 20,
+              "organicRank": 20,
+              "totalSales": 57
             }
           }
         }
